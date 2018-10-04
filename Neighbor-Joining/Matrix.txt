@@ -1,0 +1,6 @@
+Gorila Orangotango Humano Chimpanze Gibão
+Gorila 0 0.1890 0.1100 0.1130 0.2150
+Orangotango 0.1890 0 0.1790 0.1920 0.2110
+Humano 0.1100 0.1790 0 0.09405 0.2050
+Chimpanze´ 0.1130 0.1920 0.0940 0 0.2140
+Gibão 0.2150 0.2110 0.2050 0.2140 0
